@@ -6,7 +6,7 @@
 
     <div class="scroll-wrap">
       <!-- 当前评论项 -->
-      <comment-item :comment="comment"/>
+      <comment-item :comments="comment"/>
       <!-- /当前评论项 -->
 
       <!-- 评论的回复列表 -->
